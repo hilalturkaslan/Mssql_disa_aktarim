@@ -1,1 +1,1 @@
-# Mssql_disa_aktarim
+Mssql veritabanında veritabanını dışarı aktarmak için veritabanı üstüne sağ tık tasks sağ tık generate scripts sayfasına geçilmeli ardından next ile devam edilip database de aktarılmak istenilen hepsi mi yoksa seçili bir kısım mı o tercih yapılıp next nasıl ve nereye kaydetme kısmında save as script file seçilip script.sql yerine veritabanınızın adı ile değiştirip sql olarak alın sql yerine almak istemezseniz ipynb olarak da alabilirsiniz
